@@ -1,0 +1,46 @@
+.carousel-indicators {
+ justify-content: left;
+
+
+
+ li{
+    
+    width: 8px;
+    height: 8px;
+    border-radius: 10px;
+    border: none; 
+    
+    &.active{
+        background-color: #E0752F;
+    }
+ }
+} 
+.carousel-caption {
+    top: 40%;
+    text-align: left;
+.btn-primary {
+     color: #fff;
+     background-color: orangered;  
+     border-color: orangered; 
+}  
+
+
+h3{  
+      
+     font-size: 45px;
+     font-weight: bold;
+     line-height: 80%;
+  
+    
+  }
+    p{
+        font-size: 16px;
+        //padding: 20px;
+        line-height: 10%;
+        margin-top: 20px;
+       
+        
+    } 
+        
+    }
+  
